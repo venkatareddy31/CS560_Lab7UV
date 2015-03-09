@@ -1,0 +1,8 @@
+applications:
+- disk_quota: 1024M
+  host: CS560_Lab7Sg6
+  name: CS560_Lab7Sg6
+  path: webStarterApp.war
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M
